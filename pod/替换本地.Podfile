@@ -1,0 +1,1 @@
+mmpod 'MomoKit', :path => '/Users/momo/code/MomoKit'

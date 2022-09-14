@@ -1,0 +1,1 @@
+[[NSFileManager defaultManager] fileExistsAtPath:filePath isDirectory:&isDirectory];
